@@ -1,0 +1,7 @@
+#!/bin/sh
+
+stty -echo
+
+echo >> ~/bred
+date >> ~/bred
+cat >> ~/bred
