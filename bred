@@ -2,6 +2,4 @@
 
 stty -echo
 
-echo >> ~/bred
-date >> ~/bred
-cat >> ~/bred
+(echo; date; cat) >> ~/bred
